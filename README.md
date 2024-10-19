@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Arik Al Ahsan
 #### Web Developer and Software Developer
-![Web Developer and Software Developer](https://www.facebook.com/photo/?fbid=122150530754051474&set=a.122130095606051474)
+![Web Developer and Software Developer](https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/448507772_122150530748051474_2456540913774374725_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=zBieGGxElsIQ7kNvgEDR5pZ&_nc_zt=23&_nc_ht=scontent.fjsr17-1.fna&_nc_gid=AZzVWrrK-IDY3Z7inFK42YU&oh=00_AYCiLVvMuwiEdjVk4SRsE1lCW-PudCShrNnnLHNmi6yEyw&oe=6719905D)
 
 
 Skills: PHP / REACT / JS / HTML / CSS / SQL / C / PYTHON / JAVA / Go /
